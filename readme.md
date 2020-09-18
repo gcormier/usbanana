@@ -1,9 +1,9 @@
 # usbanana
 
-<img src="https://github.com/gcormier/usbanana/blob/master/docs/usbanana1?raw=true" height="200px" /> 
-<img src="https://github.com/gcormier/usbanana/blob/master/docs/usbanana2?raw=true" height="200px" /> 
-<img src="https://github.com/gcormier/usbanana/blob/master/docs/usbanana3?raw=true" height="200px" /> 
-<img src="https://github.com/gcormier/usbanana/blob/master/docs/usbanana4?raw=true" height="200px" /> 
+<img src="https://github.com/gcormier/usbanana/blob/master/docs/usbanana1.jpg?raw=true" height="200px" /> 
+<img src="https://github.com/gcormier/usbanana/blob/master/docs/usbanana2.jpg?raw=true" height="200px" /> 
+<img src="https://github.com/gcormier/usbanana/blob/master/docs/usbanana3.jpg?raw=true" height="200px" /> 
+<img src="https://github.com/gcormier/usbanana/blob/master/docs/usbanana4.jpg?raw=true" height="200px" /> 
 
 
 USB is great - endless 5V power supplies to be used on many projects. As a result, I design a lot of things with it, and you might as well.
